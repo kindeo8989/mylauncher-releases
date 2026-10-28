@@ -13,7 +13,7 @@ RPG 모드 서버용 마인크래프트 런처 · Minecraft 1.20.1 · Forge
 <br><br>
 
 <a href="https://github.com/kindeo8989/mylauncher-releases/releases/latest">
-  <img src="https://img.shields.io/github/v/release/kindeo8989/mylauncher-releases?include_prereleases&label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&style=flat-square" alt="최신 버전">
+  <img src="https://img.shields.io/github/v/release/kindeo8989/mylauncher-releases?include_prereleases&sort=date&label=%EC%B5%9C%EC%8B%A0%20%EB%B2%84%EC%A0%84&style=flat-square" alt="최신 버전">
 </a>
 
 버튼이 안 보이면 → **[MyLauncher-Web-Setup.exe 받기](https://github.com/kindeo8989/mylauncher-releases/releases/latest/download/MyLauncher-Web-Setup.exe)**
